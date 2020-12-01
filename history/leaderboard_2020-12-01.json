@@ -1,0 +1,276 @@
+{
+    "event": "2020",
+    "members": {
+        "1020205": {
+            "completion_day_level": {
+                "1": {
+                    "1": {
+                        "get_star_ts": "1606821672"
+                    },
+                    "2": {
+                        "get_star_ts": "1606825751"
+                    }
+                }
+            },
+            "global_score": 0,
+            "id": "1020205",
+            "last_star_ts": "1606825751",
+            "local_score": 0,
+            "name": "Tobias Brambo",
+            "stars": 0
+        },
+        "1026750": {
+            "completion_day_level": {
+                "1": {
+                    "1": {
+                        "get_star_ts": "1606828018"
+                    },
+                    "2": {
+                        "get_star_ts": "1606828100"
+                    }
+                }
+            },
+            "global_score": 0,
+            "id": "1026750",
+            "last_star_ts": "1606828100",
+            "local_score": 0,
+            "name": "Olav Ausland Onstad",
+            "stars": 0
+        },
+        "1041129": {
+            "completion_day_level": {
+                "1": {
+                    "1": {
+                        "get_star_ts": "1606837171"
+                    },
+                    "2": {
+                        "get_star_ts": "1606837338"
+                    }
+                }
+            },
+            "global_score": 0,
+            "id": "1041129",
+            "last_star_ts": "1606837338",
+            "local_score": 0,
+            "name": "Andreas Primstad",
+            "stars": 0
+        },
+        "1043445": {
+            "completion_day_level": {
+                "1": {
+                    "1": {
+                        "get_star_ts": "1606842508"
+                    },
+                    "2": {
+                        "get_star_ts": "1606843174"
+                    }
+                }
+            },
+            "global_score": 0,
+            "id": "1043445",
+            "last_star_ts": "1606843174",
+            "local_score": 0,
+            "name": "GabrielTorland",
+            "stars": 0
+        },
+        "1050251": {
+            "completion_day_level": {
+                "1": {
+                    "1": {
+                        "get_star_ts": "1606847264"
+                    },
+                    "2": {
+                        "get_star_ts": "1606847620"
+                    }
+                }
+            },
+            "global_score": 0,
+            "id": "1050251",
+            "last_star_ts": "1606847620",
+            "local_score": 0,
+            "name": "Thomas Nielsen",
+            "stars": 0
+        },
+        "1050995": {
+            "completion_day_level": {
+                "1": {
+                    "1": {
+                        "get_star_ts": "1606850591"
+                    },
+                    "2": {
+                        "get_star_ts": "1606851893"
+                    }
+                }
+            },
+            "global_score": 0,
+            "id": "1050995",
+            "last_star_ts": "1606851893",
+            "local_score": 0,
+            "name": "BrageEngeland",
+            "stars": 0
+        },
+        "1051760": {
+            "completion_day_level": {
+                "1": {
+                    "1": {
+                        "get_star_ts": "1606852680"
+                    },
+                    "2": {
+                        "get_star_ts": "1606853038"
+                    }
+                }
+            },
+            "global_score": 0,
+            "id": "1051760",
+            "last_star_ts": "1606853038",
+            "local_score": 0,
+            "name": "MysticalVorte",
+            "stars": 0
+        },
+        "1073006": {
+            "completion_day_level": {
+                "1": {
+                    "1": {
+                        "get_star_ts": "1606863461"
+                    },
+                    "2": {
+                        "get_star_ts": "1606863803"
+                    }
+                }
+            },
+            "global_score": 0,
+            "id": "1073006",
+            "last_star_ts": "1606863803",
+            "local_score": 0,
+            "name": "patkar07",
+            "stars": 0
+        },
+        "254160": {
+            "completion_day_level": {
+                "1": {
+                    "1": {
+                        "get_star_ts": "1606813703"
+                    },
+                    "2": {
+                        "get_star_ts": "1606814166"
+                    }
+                }
+            },
+            "global_score": 0,
+            "id": "254160",
+            "last_star_ts": "1606814166",
+            "local_score": 0,
+            "name": "Bao",
+            "stars": 0
+        },
+        "665622": {
+            "completion_day_level": {
+                "1": {
+                    "1": {
+                        "get_star_ts": "1606819238"
+                    },
+                    "2": {
+                        "get_star_ts": "1606819607"
+                    }
+                }
+            },
+            "global_score": 0,
+            "id": "665622",
+            "last_star_ts": "1606819607",
+            "local_score": 0,
+            "name": "TrongTheAlpaca",
+            "stars": 0
+        },
+        "760579": {
+            "completion_day_level": {},
+            "global_score": 0,
+            "id": "760579",
+            "last_star_ts": 0,
+            "local_score": 0,
+            "name": "dig3x",
+            "stars": 0
+        },
+        "946714": {
+            "completion_day_level": {
+                "1": {
+                    "1": {
+                        "get_star_ts": "1606816668"
+                    },
+                    "2": {
+                        "get_star_ts": "1606816924"
+                    }
+                }
+            },
+            "global_score": 0,
+            "id": "946714",
+            "last_star_ts": "1606816924",
+            "local_score": 0,
+            "name": "hstst2006",
+            "stars": 0
+        },
+        "986245": {
+            "completion_day_level": {
+                "1": {
+                    "1": {
+                        "get_star_ts": "1606827124"
+                    },
+                    "2": {
+                        "get_star_ts": "1606827322"
+                    }
+                }
+            },
+            "global_score": 0,
+            "id": "986245",
+            "last_star_ts": "1606827322",
+            "local_score": 0,
+            "name": "shadk9",
+            "stars": 0
+        },
+        "986434": {
+            "completion_day_level": {},
+            "global_score": 0,
+            "id": "986434",
+            "last_star_ts": 0,
+            "local_score": 0,
+            "name": "Steffen Magnussen",
+            "stars": 0
+        },
+        "986626": {
+            "completion_day_level": {
+                "1": {
+                    "1": {
+                        "get_star_ts": "1606833582"
+                    },
+                    "2": {
+                        "get_star_ts": "1606833694"
+                    }
+                }
+            },
+            "global_score": 0,
+            "id": "986626",
+            "last_star_ts": "1606833694",
+            "local_score": 0,
+            "name": "JoachimFredheim",
+            "stars": 0
+        },
+        "990529": {
+            "completion_day_level": {
+                "1": {
+                    "1": {
+                        "get_star_ts": "1606823480"
+                    },
+                    "2": {
+                        "get_star_ts": "1606823673"
+                    }
+                }
+            },
+            "global_score": 0,
+            "id": "990529",
+            "last_star_ts": "1606823673",
+            "local_score": 0,
+            "name": "NicolaiEP",
+            "stars": 0
+        }
+    },
+    "owner_id": "665622"
+}
