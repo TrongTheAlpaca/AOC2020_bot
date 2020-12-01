@@ -16,7 +16,6 @@ from apscheduler.triggers.cron import CronTrigger
 # - Add playing status https://discordpy.readthedocs.io/en/latest/faq.html#how-do-i-set-the-playing-status
 # - MOVE TO ENV
 
-print(os.getenv('PATH'))
 
 def update_leaderboard_json():
     print('UPDATING LEADERBOARD JSON')
