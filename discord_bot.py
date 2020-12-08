@@ -6,6 +6,8 @@ import requests
 import random
 from datetime import datetime, timedelta
 
+from pathlib import Path
+
 import discord
 
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
@@ -15,6 +17,7 @@ from apscheduler.triggers.cron import CronTrigger
 # - Create logger https://discordpy.readthedocs.io/en/latest/logging.html
 # - Add playing status https://discordpy.readthedocs.io/en/latest/faq.html#how-do-i-set-the-playing-status
 # - MOVE TO ENV
+# - Make it so I can check downloaded history through
 
 
 def update_leaderboard_json():
@@ -102,11 +105,33 @@ class MyClient(discord.Client):
         self.scheduler.start()
 
     async def on_message(self, message):
-        # don't respond to ourselves
+        # Don't respond to ourselves
         if message.author == self.user:
             return
 
+        if message.content == '!history':
+            print("Message from: ", message.author)
+            print("Read message from channel: ", message.channel)
+
+            x = ''.join(['- ' + str(file)+'\n' for file in Path('history').iterdir()])
+
+            await message.channel.send(f'```Stored History\n{x}```')
+
+        if message.content == '!update':
+            print("Message from: ", message.author)
+            print("Read message from channel: ", message.channel)
+
+            update_leaderboard_json()
+
+            await message.channel.send(f'UPDATED!')
+
+            x = ''.join(['- ' + str(file) + '\n' for file in Path('history').iterdir()])
+
+            await message.channel.send(f'```Stored History\n{x}```')
+
         if message.content == '!ping':
+            print("Message from: ", message.author)
+            print("Read message from channel: ", message.channel)
             await message.channel.send('pong')
 
     @staticmethod
